@@ -11,4 +11,4 @@ Jungsunmin/Jungsunmin is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=just5683)](https://solved.ac/just5683)
-![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-Junyyy&show_icons=true&theme=highcontrast) 
+![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jungsunmin&show_icons=true&theme=highcontrast) 
