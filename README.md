@@ -7,6 +7,13 @@
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jungsunmin&show_icons=true&theme=radical)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=just5683)](https://solved.ac/just5683/)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jungsunmin&layout=compact&theme=radical)
+<table>
+  <tr>
+    <td>
+      <img src="http://mazandi.herokuapp.com/api?handle=just5683&theme=warm" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Jungsunmin&show_icons=true&theme=radical" />
+    </td>
+  </tr>
+</table>
