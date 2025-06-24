@@ -10,7 +10,9 @@
 <table>
   <tr>
     <td>
-      <img src="http://mazandi.herokuapp.com/api?handle=just5683&theme=warm" />
+      <a href="https://solved.ac/just5683/">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=just5683" />
+      </a>
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=Jungsunmin&show_icons=true&theme=radical" />
