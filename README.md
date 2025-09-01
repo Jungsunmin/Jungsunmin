@@ -1,7 +1,7 @@
 # 👋 Hi, I'm @Jungsunmin
 
-- 👀 I'm interested in AI and numerical algorithms  
-- 🌱 I'm currently learning reinforcement learning (RL) and Git  
+- 👀 I'm interested in AI(DRL) and numerical algorithms  
+- 🌱 I'm currently learning reinforcement learning (DRL) and Git  
 - 📫 How to reach me: [jj1120200@gmail.com](mailto:jj1120200@gmail.com)  
 - ⚡ Fun fact: People call me Sun 🌞  
 
